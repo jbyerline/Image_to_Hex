@@ -1,4 +1,22 @@
 ﻿<Properties StartupConfiguration="{4E7F423B-641E-4BAA-A817-6B041A6AF9F7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Image__to__Hex FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Image__to__Hex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Jacob/Resume-Webpage/Webpage/html/projects.html">
+    <Files>
+      <File FileName="Image_to_Hex/Program.cs" Line="10" Column="98" />
+      <File FileName="../../../Jacob/Resume-Webpage/Webpage/html/projects.html" Line="23" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Image_to_Hex" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
