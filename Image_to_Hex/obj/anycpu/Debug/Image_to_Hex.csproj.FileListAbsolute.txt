@@ -1,0 +1,6 @@
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/bin/Debug/Image_to_Hex.exe
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/bin/Debug/Image_to_Hex.pdb
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/obj/anycpu/Debug/Image_to_Hex.csprojAssemblyReference.cache
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/obj/anycpu/Debug/Image_to_Hex.csproj.CoreCompileInputs.cache
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/obj/anycpu/Debug/Image_to_Hex.exe
+/Users/jacobbyerline/Documents/Programs/C#/Image_to_Hex/Image_to_Hex/obj/anycpu/Debug/Image_to_Hex.pdb

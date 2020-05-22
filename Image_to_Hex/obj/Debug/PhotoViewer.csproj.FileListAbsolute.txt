@@ -1,0 +1,11 @@
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/PhotoViewer.exe
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/PhotoViewer.pdb
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/obj/Debug/PhotoViewer.csprojAssemblyReference.cache
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/obj/Debug/PhotoViewer.csproj.CoreCompileInputs.cache
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/obj/Debug/PhotoViewer.exe
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/obj/Debug/PhotoViewer.pdb
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/ImageProcessor.dll
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/System.ValueTuple.dll
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/System.ValueTuple.xml
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/bin/Debug/ImageProcessor.xml
+/Users/jacobbyerline/Documents/Programs/C#/PhotoViewer/PhotoViewer/obj/Debug/PhotoViewer.csproj.CopyComplete
